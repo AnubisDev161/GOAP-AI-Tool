@@ -5,6 +5,10 @@ using UnityEngine;
 
 namespace GOAP.Core.Agent
 {
+    /// <summary>
+    /// If an agent is loaded, it immediately requests a valid action plan from its Brain component, 
+    /// which fetches all available actions from the graph instance as well as all available goals.
+    /// </summary>
     public class GOAPBrain
     {
         public WorldState currentWorldState { get; private set; }

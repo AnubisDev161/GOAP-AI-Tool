@@ -3,6 +3,9 @@ using UnityEngine;
 
 namespace GOAP.Core.Agent
 {
+    /// <summary>
+    /// The goalSelector chooses the goal with the highest priority tach is achievable and sets the current goal equal to it. 
+    /// </summary>
     public class GOAPGoalSelector 
     {
         private WorldState blackboard;

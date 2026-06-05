@@ -4,6 +4,9 @@ using GOAP.Core;
 
 namespace GOAP.Tree
 {
+    /// <summary>
+    /// The GOAPTree is responsible for generating plans that are supposed to be used by the agent. 
+    /// </summary>
     public class GOAPTree
     {
         private List<GOAPAction> availableActions;

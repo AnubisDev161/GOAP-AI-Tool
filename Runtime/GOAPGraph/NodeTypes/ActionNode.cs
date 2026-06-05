@@ -3,6 +3,12 @@ using UnityEngine;
 
 namespace GOAP.GOAPGraph
 {
+    /// <summary>
+    /// If you have to create custom action nodes, 
+    /// you can create them very easily by letting your custom node derive from the ActionNode class. 
+    /// With just a few lines of Code you can instantly write gameplay code that is called when the action gets executed, 
+    /// in order to do that you just have to override the OnExecute method of the graphNode class.
+    /// </summary>
     [NodeInfo("Action", "Action / Action", hasInputParams: true, hasOutputParams: true, paramPortsHaveSingleCapacity: false)]
     public class ActionNode : GOAPGraphNode
     {

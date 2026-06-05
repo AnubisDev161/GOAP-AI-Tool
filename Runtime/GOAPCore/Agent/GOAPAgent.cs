@@ -6,6 +6,10 @@ using UnityEngine;
 
 namespace GOAP.Core.Agent
 {
+    /// <summary>
+    /// The GOAPAgent is the underlying class that connects the whole GOAP system with the game world is the. 
+    /// This class derives from Monobehavior and contains the logic for executing actions and requesting new action plans.
+    /// </summary>
     public class GOAPAgent : MonoBehaviour
     {
         public GOAPNavigation navigation { get; private set; }
@@ -110,7 +114,10 @@ namespace GOAP.Core.Agent
                 Debug.LogError("Agent stopped planning due to an invalid plan");
             }
         }
-        
+        /// <summary>
+        /// I've chosen an event based architecture because it was the best fit for a system that can wait with the execution until a process has started or ended, 
+        /// for example when a navigation agent has reached its destination.
+        /// </summary>
         private void ExecuteCurrentPlan()
         {
             if (currentPlan.Count > 0)
