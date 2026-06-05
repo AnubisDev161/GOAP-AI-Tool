@@ -12,7 +12,7 @@ This tool is a node based editor tool for the creation of AI behavior using the 
 
 ## Example Project
 
-You can find practical example implementation of the tool in my [example project]([https://pages.github.com/]https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
+You can find practical example implementation of the tool in my [example project](https://pages.github.com/https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
 
 ## How to document
 
