@@ -1,4 +1,4 @@
 
 ## GOAP-AI-Tool (com.AnubisDev161.GOAP-AI-Tool) by Stanislaw Preller
 
-Use this file to describe your package's features.
+This tool is a node based editor tool for the creation of AI behavior using the GOAP AI Pattern and is a free and open source package for the Unity Engine
