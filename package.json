@@ -1,0 +1,15 @@
+{
+  "name": "com.anubisdev161.goap-ai-tool",
+  "displayName": "GOAP-AI-Tool",
+  "version": "0.1.0",
+  "unity": "",
+  "unityRelease": "",
+  "description": "",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "Stanislaw Preller alias AnubisDev161",
+    "url": "https://GOAP-AI-Tool.AnubisDev161.com"
+  }
+}
