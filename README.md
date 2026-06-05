@@ -16,5 +16,5 @@ You can find practical example implementation of the tool in my [example project
 
 ## How to document
 
-This how to document covers the basics of the tool 
+This [how to document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool  
 
