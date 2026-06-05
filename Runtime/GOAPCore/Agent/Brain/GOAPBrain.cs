@@ -18,7 +18,6 @@ namespace GOAP.Core.Agent
         private List<GOAPAction> availableActions;
         private List<GOAPGoal> availableGoals;
         public GOAPAgent agent {  get; private set; }
-
         public GOAPGraphAsset graphInstance { get; private set; }
 
         public GOAPBrain(GOAPAgent agent, GOAPGraphAsset graphInstance)
@@ -127,8 +126,6 @@ namespace GOAP.Core.Agent
             var effects = new Dictionary<string, WorldFact>();
             var effectNodes = graphNode.GetEffectNodes(graphInstance);
 
-
-            // TODO Implement type conversion, currently only bool values are accepted!
             foreach (var effectNode in effectNodes)
             {
                 var effect = effectNode.GetData();

@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace GOAP.Core.Agent
 {
+    /// <summary>
+    /// The blackboard works as a central space in the editor where you can create world facts or Blackboard keys. 
+    /// </summary>
     [Serializable]
     public class GOAPBlackbaord : ISerializationCallbackReceiver
     {
