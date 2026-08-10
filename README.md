@@ -14,7 +14,7 @@ This tool is a node based editor tool for the creation of AI behavior using the 
 
 You can find practical example implementation of the tool in my [example project](https://pages.github.com/https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
 
-## How to document
+## HowTo document
 
-This [how to document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool  
+This [HowTo document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool  
 
