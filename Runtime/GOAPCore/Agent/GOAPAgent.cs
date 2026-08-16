@@ -56,7 +56,7 @@ namespace GOAP.Core.Agent
 
             if (navigation == null)
             {
-                Debug.LogError("No GOAPNaviagtion component found!");
+                Debug.LogError("No GOAPNavigation component found!");
                 return;
             }
 
