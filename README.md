@@ -8,7 +8,7 @@ This tool is a node based editor tool for the creation of AI behavior using the 
 <img width="1913" height="857" alt="GOAP Graph" src="https://github.com/user-attachments/assets/ed7f0f7b-20d0-456c-84fd-9309cc1e9892" />
 
 The [NodeEditor](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Editor/GOAPGraph/GOAPGraphEditorWindow.cs) is the graphical interface that designers can use to create behavior. 
-Similar to a behavior tree with the main difference that the execution order of tasks is evaulated at runtime by the GOAPPlanner.
+Similar to a behavior tree with the main difference that the execution order of tasks is evaulated at runtime by the [GOAPPlanner](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Runtime/GOAPCore/Agent/GOAPPlanner.cs).
 
 ###  🧾 A GOAP Runtime Planner
 <img width="1012" height="425" alt="image" src="https://github.com/user-attachments/assets/72899463-4ded-467e-826c-5c28a8bfc17c" />
