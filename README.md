@@ -11,13 +11,18 @@ This tool is a node based editor tool for the creation of AI behavior using the 
 <img width="1012" height="425" alt="image" src="https://github.com/user-attachments/assets/72899463-4ded-467e-826c-5c28a8bfc17c" />
 
 ### 🧠 A Blackboard
-  <img width="296" height="390" alt="Blackboard" src="https://github.com/user-attachments/assets/9aef84a1-8ad7-48b5-bb8c-204dcb8e81f2" />
+<img width="296" height="390" alt="Blackboard" src="https://github.com/user-attachments/assets/9aef84a1-8ad7-48b5-bb8c-204dcb8e81f2" />
+
+The [Balckboard]() is used to store a variety of data, such as positions, GameObjects and other task relevant data.
 
 ### 🤖 A GOAP Agent 
 <img width="1086" height="372" alt="image" src="https://github.com/user-attachments/assets/befd8436-c4a5-466e-904d-6633b96b95f3" />
 
+The [GOAPAgent]() connects the GOAP planner with the game world and can be attached to any actor as a component.
+
 ### 🧩 Focus on Extendability
 <img width="1242" height="718" alt="Extendability" src="https://github.com/user-attachments/assets/f73e8bb3-ec84-48b0-b2f1-bd9b4eb1db31" />
+The [ActionNode]() is the base class for any action node that can be used in the GOAPGraph. Designed to be overwritten to add your custom gameplay code.
 
 ## 🔖 Example Project
 <img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/41be8129-c4df-4d76-86eb-80ade8661bc3" />
