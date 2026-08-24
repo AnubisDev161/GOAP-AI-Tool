@@ -18,7 +18,7 @@ namespace GOAP.GOAPGraph
         [ExposedProperty]
         public float cost = 1.0f;
 
-        // Tells the GOAPAction to remove the preconditions from the curretn worldState ater successful execution
+        // Tells the GOAPAction to remove the preconditions from the current worldState after successful execution
         [ExposedProperty]
         public bool RemovePreconditionsFromWorldState;
 
