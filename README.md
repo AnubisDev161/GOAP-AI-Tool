@@ -9,6 +9,7 @@ This tool is a node based editor tool for the creation of AI behavior using the 
   
 ###  🧾 A GOAP Runtime Planner
 <img width="1012" height="425" alt="image" src="https://github.com/user-attachments/assets/72899463-4ded-467e-826c-5c28a8bfc17c" />
+
 The [GOAPPlanner](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Runtime/GOAPCore/Agent/GOAPPlanner.cs) handles the actual planning logic by using pathfinding
 
 ### 🧠 A Blackboard
@@ -23,6 +24,7 @@ The [GOAPAgent](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Runtime/G
 
 ### 🧩 Focus on Extendability
 <img width="1242" height="718" alt="Extendability" src="https://github.com/user-attachments/assets/f73e8bb3-ec84-48b0-b2f1-bd9b4eb1db31" />
+
 The [ActionNode](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Runtime/GOAPGraph/NodeTypes/ActionNode.cs) is the base class for any action node that can be used in the GOAPGraph. Designed to be used as the parent class for any custom action that the agent can perform. 
 
 ## 🔖 Example Project
