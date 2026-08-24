@@ -64,7 +64,6 @@ namespace GOAP.GOAPGraph.Editor
             return graphViewChange;
         }
 
-        //[MenuItem("Window/AI/GOAP")]
         private void OnGUI()
         {
             GUILayout.Label("GOAP GRAPH", EditorStyles.boldLabel);

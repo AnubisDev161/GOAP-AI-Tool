@@ -4,6 +4,10 @@ using UnityEngine;
 
 namespace GOAP.Core.Agent
 {
+    /// <summary>
+    /// The GOAPPlanner is responsible for generating plans using its GOAPTree which searches through 
+    /// the given actions to create a valid plan that satisfies the given goal.
+    /// </summary>
     public class GOAPPlanner
     {
         private GOAPTree tree;

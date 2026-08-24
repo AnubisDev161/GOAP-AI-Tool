@@ -7,7 +7,7 @@ using UnityEngine;
 namespace GOAP.Core.Agent
 {
     /// <summary>
-    /// The GOAPAgent is the underlying class that connects the whole GOAP system with the game world is the. 
+    /// The GOAPAgent is the underlying class that connects the whole GOAP system with the game world. 
     /// This class derives from Monobehavior and contains the logic for executing actions and requesting new action plans.
     /// </summary>
     public class GOAPAgent : MonoBehaviour
