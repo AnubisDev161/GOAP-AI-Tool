@@ -1,20 +1,30 @@
 
-## GOAP-AI-Tool by AnubisDev161
+## 🛠️ GOAP-AI-Tool by AnubisDev161  
 
-This tool is a node based editor tool for the creation of AI behavior using the GOAP AI Pattern and is a free and open source package for the Unity Engine
+This tool is a node based editor tool for the creation of AI behavior using the GOAP AI Pattern and is a free and open source package for the Unity Engine.
 
-## Features
+## ✨ Features  
+### 🎛️ A Node Based Editor
+<img width="1913" height="857" alt="GOAP Graph" src="https://github.com/user-attachments/assets/ed7f0f7b-20d0-456c-84fd-9309cc1e9892" />
+  
+###  🧾 A GOAP Runtime Planner
+<img width="1012" height="425" alt="image" src="https://github.com/user-attachments/assets/72899463-4ded-467e-826c-5c28a8bfc17c" />
 
-- A node based editor
-- A GOAP runtime planner
-- A blackboard
-- Focus on extendability
+### 🧠 A Blackboard
+  <img width="296" height="390" alt="Blackboard" src="https://github.com/user-attachments/assets/9aef84a1-8ad7-48b5-bb8c-204dcb8e81f2" />
 
-## Example Project
+### 🤖 A GOAP Agent 
+<img width="1086" height="372" alt="image" src="https://github.com/user-attachments/assets/befd8436-c4a5-466e-904d-6633b96b95f3" />
+
+### 🧩 Focus on Extendability
+<img width="1242" height="718" alt="Extendability" src="https://github.com/user-attachments/assets/f73e8bb3-ec84-48b0-b2f1-bd9b4eb1db31" />
+
+## 🔖 Example Project
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/41be8129-c4df-4d76-86eb-80ade8661bc3" />
 
 You can find a practical example implementation of the tool in my [example project](https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
 
-## HowTo document
+## 📜 HowTo Document
 
 This [HowTo document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool  
 
