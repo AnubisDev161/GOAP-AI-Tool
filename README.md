@@ -3,14 +3,16 @@
 
 This tool is a node based editor tool for the creation of AI behavior using the GOAP AI Pattern and is a free and open source package for the Unity Engine.
 
+
+## 📜 HowTo Document
+
+This [HowTo document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool.
+
 ## 🔖 Example Project
 <img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/41be8129-c4df-4d76-86eb-80ade8661bc3" />
 
 You can find a practical example implementation of the tool in my [example project](https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
 
-## 📜 HowTo Document
-
-This [HowTo document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool.
 
 ## ✨ Features  
 ### 🎛️ A Node Based Editor
