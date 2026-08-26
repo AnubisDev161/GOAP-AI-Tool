@@ -3,6 +3,15 @@
 
 This tool is a node based editor tool for the creation of AI behavior using the GOAP AI Pattern and is a free and open source package for the Unity Engine.
 
+## 🔖 Example Project
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/41be8129-c4df-4d76-86eb-80ade8661bc3" />
+
+You can find a practical example implementation of the tool in my [example project](https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
+
+## 📜 HowTo Document
+
+This [HowTo document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool.
+
 ## ✨ Features  
 ### 🎛️ A Node Based Editor
 <img width="1913" height="857" alt="GOAP Graph" src="https://github.com/user-attachments/assets/ed7f0f7b-20d0-456c-84fd-9309cc1e9892" />
@@ -29,13 +38,4 @@ The [GOAPAgent](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Runtime/G
 <img width="1242" height="718" alt="Extendability" src="https://github.com/user-attachments/assets/f73e8bb3-ec84-48b0-b2f1-bd9b4eb1db31" />
 
 The [ActionNode](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Runtime/GOAPGraph/NodeTypes/ActionNode.cs) is the base class for any action node that can be used in the GOAPGraph. Designed to be used as the parent class for any custom action that the agent can perform. 
-
-## 🔖 Example Project
-<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/41be8129-c4df-4d76-86eb-80ade8661bc3" />
-
-You can find a practical example implementation of the tool in my [example project](https://github.com/AnubisDev161/GOAP-AI-Tool-Sample-Project).
-
-## 📜 HowTo Document
-
-This [HowTo document](https://github.com/AnubisDev161/GOAP-AI-Tool/blob/main/Documentation/GOAP%20AI%20Tool%20-%20How%20To%20Document.pdf) covers the basics of the tool.
 
