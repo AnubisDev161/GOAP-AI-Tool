@@ -9,6 +9,8 @@ This tool is a node based editor tool for the creation of AI behavior using the 
 - Blackboard
 - GOAP Agent
 - Focus on Extendability
+
+  You can find a detailed feature description below.
   
 ## 📜 HowTo Document
 
