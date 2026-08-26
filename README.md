@@ -3,6 +3,11 @@
 
 This tool is a node based editor tool for the creation of AI behavior using the GOAP AI Pattern and is a free and open source package for the Unity Engine.
 
+## Features
+- A Node Based Editor
+- A GOAP Runtime Planner
+- A Blackboard
+- A GOAP Agent 
 
 ## 📜 HowTo Document
 
